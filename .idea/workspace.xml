@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3b063f5-0db4-49ae-b645-d3dbb2043adc" name="Changes" comment="Add product model" />
+    <list default="true" id="f3b063f5-0db4-49ae-b645-d3dbb2043adc" name="Changes" comment="Add config" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +30,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2uOtqEMuc79rNpKDEp5CbJKLlOX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -97,7 +100,7 @@
       <updated>1742131638289</updated>
       <workItem from="1742131639714" duration="98000" />
       <workItem from="1742131748527" duration="1407000" />
-      <workItem from="1742177409079" duration="921000" />
+      <workItem from="1742177409079" duration="3001000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <option name="closed" value="true" />
@@ -115,7 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742181861750</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add custom_auth">
+      <option name="closed" value="true" />
+      <created>1742182152067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742182152067</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add config">
+      <option name="closed" value="true" />
+      <created>1742183007214</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742183007215</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +143,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
     <MESSAGE value="Add product model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add product model" />
+    <MESSAGE value="Add custom_auth" />
+    <MESSAGE value="Add config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add config" />
   </component>
 </project>
